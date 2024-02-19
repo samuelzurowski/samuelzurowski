@@ -1,5 +1,4 @@
-# Samuel Zurowski's GitHub Repo
+# Samuel Zurowski's GitHub
 
-- I'm currently working on my Master's Degree
 - I like things related to penetration testing
 - I like writing computer security software
